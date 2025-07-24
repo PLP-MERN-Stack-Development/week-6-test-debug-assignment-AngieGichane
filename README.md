@@ -442,7 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ by Angela Gichane</p>
   <p>
     <a href="https://github.com/your-username/mern-bug-tracker/issues">Report Bug</a>
     ·
